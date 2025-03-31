@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#2e2f32] text-[#fcfcf2] font-sans;
+  @apply bg-skillgray text-skillwhite font-sans;
 }
